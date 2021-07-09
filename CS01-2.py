@@ -1,1 +1,2 @@
-print("Saktawat Pairachsaranon")
+A = input()
+print(A)
