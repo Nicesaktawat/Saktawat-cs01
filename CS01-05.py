@@ -1,6 +1,6 @@
-A = 5
+A = int(5)
 print(A)
-B = 4
+B = int(4)
 print(B)
-C = A+B 
+C = int(A+B)
 print(C)
