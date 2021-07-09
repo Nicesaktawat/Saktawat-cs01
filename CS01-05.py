@@ -1,6 +1,4 @@
 A = int(5)
-print(A)
 B = int(4)
-print(B)
 C = int(A+B)
 print(C)
