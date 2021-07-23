@@ -1,3 +1,3 @@
 a = int(input())
-for a in range (101):
-    print(a+100)
+for i in range (101):
+    print(a+i)
